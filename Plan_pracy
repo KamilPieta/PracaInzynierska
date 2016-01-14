@@ -1,0 +1,9 @@
+
+Temat pracy: Implementacja logiki umożliwiającej monitorowanie stanu i cyklu życia baterii w urządzeniach mobilnych.
+
+
+1. Opis zagadnień związanych z rozładowywaniem się baterii oraz przegląd budowy RaspberryPi z opisem interfejsu GPIO oraz magistrali SPI
+2.  Przedstawienie podstawowych zagadnień sieci neuronowych MLP wraz z algorytmem uczenia.
+3.  Budowa układu służącego do pomiaru napięcia i natężenia.
+4.   Implementacja logiki do odczytu na poziomie RaspberryPi oraz komunikacji z układem.
+5.   Przewidywanie rozładowania baterii na podstawie sieci neuronowej
